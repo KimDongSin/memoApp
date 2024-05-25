@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Wrap = styled.div`
-  width: 100%;
+  width: calc(100% - 240px);
   height: 100%;
   padding: 20px;
   display: flex;
